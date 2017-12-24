@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="oscomerrece execution" verbose="1" >
+  <test name="Nopackage" >
+    <classes>
+       <class name="com.oscomerrece.testrunner.testRunner" />
+    </classes>
+  </test>
+
+</suite>
